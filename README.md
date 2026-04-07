@@ -1,49 +1,71 @@
-# 🚀 DOTE 3010: Artificial Intelligence Empowered Business
+# 🚀 DOTE 3010: AI-Empowered Business Innovation
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Category](https://img.shields.io/badge/Domain-Business%20%26%20AI-blue)
 ![School](https://img.shields.io/badge/Institution-CUHK%20Business%20School-maroon)
 ![Level](https://img.shields.io/badge/Target-Non--Engineering-green)
 
-> **Empowering the next generation of business leaders to build, not just browse.**
+**Languages:** [English](README.md) | [简体中文](README-CN.md) | [繁體中文](README-HK.md)
 
-Welcome to the official open-source repository for **DOTE 3010**. This course is specifically designed for business students with **zero engineering background**, bridging the gap between market opportunity and technical execution using the power of Artificial Intelligence.
+<p align="center"><strong>From market insight to AI-powered business impact.</strong></p>
+
+<p align="center">
+  <a href="#-course-vision">Course Vision</a> •
+  <a href="#️-the-three-pillars-of-the-curriculum">Three Pillars</a> •
+  <a href="#️-pedagogical-approach">Pedagogy</a> •
+  <a href="#-repository-contents">Repository Contents</a> •
+  <a href="#-contribution">Contribution</a>
+</p>
+
+| ✨ Course Snapshot | Details |
+| :--- | :--- |
+| **Audience** | Business students with zero engineering background |
+| **Learning Style** | Low-code/no-code, market-first, learning by building |
+| **Core Outcome** | Turn market opportunities into testable AI product demos |
+| **Pace** | Move from idea to MVP in weeks |
+
+Welcome to the official open-source repository for **DOTE 3010**.
+This course is designed for business students with **zero engineering background** who want to move beyond discussing AI and start building with it.
+Our mission is to bridge market opportunity and technical execution through practical, business-first AI learning.
 
 ---
 
 ## 🎯 Course Vision
 
-In the modern economy, AI is no longer a "tech department" luxury—it is a core business competency. Our goal is to transform students from passive consumers of AI into **AI-native product builders**. We focus on identifying real-world market demands and leveraging AI capabilities to develop functional, value-driven products.
+In today's economy, AI is not a side skill reserved for technical teams; it is a core business capability.
+This course helps students evolve from passive AI users into **AI-native builders** who can identify real demand, design the right solution, and deliver value quickly.
+Every module connects technical possibilities to clear business outcomes.
 
 ---
 
 ## 🏗️ The Three Pillars of the Curriculum
 
-The course is structured into three distinct modules, each representing a critical frontier of modern AI:
+The curriculum is built around three complementary AI frontiers:
 
-### 1. 📈 Predictive AI (Data-Driven Decisions)
-* **Focus:** Turning historical data into future insights.
-* **Business Use-cases:** Demand forecasting, churn prediction, and risk assessment.
-* **Key Learnings:** Identifying patterns, understanding probability, and integrating predictions into business workflows.
+### 1. 📈 Predictive AI (From Data to Foresight)
+* **Focus:** Using traditional machine learning and LLMs to solve prediction tasks.
+* **Business Use-cases:** Forecasting real business contexts.
+* **Key Learnings:** Matching problems to the right predictive method, comparing ML and LLM prediction workflows, and translating outputs into better decisions.
 
-### 2. 👁️ Perceptive AI (Understanding the World)
-* **Focus:** Enabling machines to "see," "hear," and "feel" context.
-* **Business Use-cases:** Automated retail analytics, sentiment analysis, and biometric authentication.
-* **Key Learnings:** Computer Vision (CV), Natural Language Processing (NLP), and Audio recognition for enhanced UX.
+### 2. 👁️ Perceptive AI (How AI Understands the World)
+* **Focus:** How AI perceives and understands the world through multimodal information.
+* **Business Use-cases:** Information extraction and interpretation from real-world documents and text-heavy workflows.
+* **Key Learnings:** Practical OCR and NLP foundations, plus a hands-on auditing case that demonstrates how perception-driven AI solves real audit challenges.
 
-### 3. 🎨 Generative AI (The Creation Frontier)
-* **Focus:** Moving from analysis to synthesis.
-* **Business Use-cases:** Large Language Model (LLM) agents, automated content pipelines, and personalized marketing at scale.
-* **Key Learnings:** Prompt engineering, RAG (Retrieval-Augmented Generation) architectures, and GenAI product design.
+### 3. 🎨 Generative AI (From Idea to Prototype)
+* **Focus:** Leveraging business students' strengths to translate market needs into product ideas.
+* **Business Use-cases:** Rapid no-code prototyping of AI product demos for concept validation.
+* **Key Learnings:** Market-first opportunity framing, no-code GenAI development, and rapid demo iteration to validate assumptions early.
 
 ---
 
 ## 🛠️ Pedagogical Approach
 
-We believe in **"Learning by Building."** Our methodology removes the syntax barrier:
-* **Low-Code/No-Code Empowerment:** Utilizing cutting-edge tools to deploy AI models without writing 1,000 lines of C++ or Python.
-* **Market-First Design:** Every project starts with a customer pain point, not a technical feature.
-* **Rapid Prototyping:** Moving from idea to functional MVP (Minimum Viable Product) in weeks.
+We believe in **"Learning by Building."**
+Our teaching approach removes unnecessary technical barriers and keeps students focused on business value creation:
+* **Low-Code/No-Code Empowerment:** Build functional AI solutions without needing deep software engineering expertise.
+* **Market-First Design:** Start with customer pain points and unmet demand, not with tools.
+* **Rapid Prototyping:** Convert ideas into testable MVPs in weeks, not semesters.
 
 ---
 
@@ -68,7 +90,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🤝 Contribution
 
-We welcome contributions from educators and AI enthusiasts! If you have suggestions to improve these materials for non-technical students, please:
+We welcome contributions from educators and AI enthusiasts.
+If you have suggestions to improve these materials for non-technical students, please:
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -82,4 +105,4 @@ We welcome contributions from educators and AI enthusiasts! If you have suggesti
 **Institution:** CUHK Business School  
 **Course Code:** DOTE 3010  
 
-*"The best way to predict the future is to build it with AI."*
+*"The future belongs to those who can connect business insight with AI execution."*
