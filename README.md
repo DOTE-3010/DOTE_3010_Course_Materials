@@ -81,6 +81,5 @@ We welcome contributions from educators and AI enthusiasts! If you have suggesti
 
 **Institution:** CUHK Business School  
 **Course Code:** DOTE 3010  
-**Department:** Decision Sciences and Managerial Economics
 
 *"The best way to predict the future is to build it with AI."*
