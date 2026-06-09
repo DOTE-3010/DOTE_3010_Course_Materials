@@ -13,6 +13,7 @@
   <a href="#-课程愿景">课程愿景</a> •
   <a href="#️-课程三大支柱">课程三大支柱</a> •
   <a href="#️-教学方法">教学方法</a> •
+  <a href="#-课程-mvp">课程 MVP</a> •
   <a href="#-仓库内容">仓库内容</a> •
   <a href="#-贡献方式">贡献方式</a>
 </p>
@@ -65,6 +66,14 @@
 * **Low-Code/No-Code Empowerment：** 降低技术门槛，让学生更专注于价值创造。
 * **Market-First Design：** 先定义用户痛点与市场需求，再选择 AI 方案。
 * **Rapid Prototyping：** 以周为单位完成从想法到 MVP 的快速验证。
+
+---
+
+## 💻 课程 MVP
+
+课程带领大家通过完全 **vibe coding** 制作的 MVP 仓库：
+
+**[AI Learning Assistant](https://github.com/DOTE-3010/AI_Learning_Assistant)**
 
 ---
 

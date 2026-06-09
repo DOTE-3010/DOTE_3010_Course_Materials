@@ -13,6 +13,7 @@
   <a href="#-course-vision">Course Vision</a> •
   <a href="#️-the-three-pillars-of-the-curriculum">Three Pillars</a> •
   <a href="#️-pedagogical-approach">Pedagogy</a> •
+  <a href="#-course-mvp">Course MVP</a> •
   <a href="#-repository-contents">Repository Contents</a> •
   <a href="#-contribution">Contribution</a>
 </p>
@@ -66,6 +67,14 @@ Our teaching approach removes unnecessary technical barriers and keeps students 
 * **Low-Code/No-Code Empowerment:** Build functional AI solutions without needing deep software engineering expertise.
 * **Market-First Design:** Start with customer pain points and unmet demand, not with tools.
 * **Rapid Prototyping:** Convert ideas into testable MVPs in weeks, not semesters.
+
+---
+
+## 💻 Course MVP
+
+The MVP built together through full **vibe coding** in this course is available at:
+
+**[AI Learning Assistant](https://github.com/DOTE-3010/AI_Learning_Assistant)**
 
 ---
 
