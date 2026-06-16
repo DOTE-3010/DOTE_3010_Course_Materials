@@ -1,4 +1,9 @@
 .DS_Store
-index.html
-network_settting.md
-assets/
+pitch_page/
+
+# Large homework datasets (exceed GitHub 100MB limit)
+homework2/train_cleaned.csv
+homework2/training_data.csv
+homework2/train_transaction.csv
+homework2/test_data.csv
+homework2/test_true_data.csv
