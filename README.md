@@ -7,6 +7,8 @@
 
 **Languages:** [English](README.md) | [简体中文](README-CN.md) | [繁體中文](README-HK.md)
 
+For more information, you can also visit our official website: https://ai-empowered-business.xyz/
+
 <p align="center"><strong>From market insight to AI-powered business impact.</strong></p>
 
 <p align="center">

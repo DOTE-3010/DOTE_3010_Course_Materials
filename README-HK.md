@@ -7,6 +7,8 @@
 
 **語言切換：** [English](README.md) | [简体中文](README-CN.md) | [繁體中文](README-HK.md)
 
+如需更多資訊，您也可以造訪我們的官方網站：https://ai-empowered-business.xyz/
+
 <p align="center"><strong>由市場洞察出發，以 AI 打造可驗證的產品價值。</strong></p>
 
 <p align="center">
